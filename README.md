@@ -5,9 +5,9 @@ Footprints comming soon.
 
 Contains:
 *  Internal Connectors
-**    +2 internal cassette header
-**    +3 internal drive connector
-**    Speccy 48 keyboard connectors
+* - +2 internal cassette header
+* - +3 internal drive connector
+* - Speccy 48 keyboard connectors
     
 *  External Connectors
 **    +2A/B/+3 AUX connector
