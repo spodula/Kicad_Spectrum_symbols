@@ -1,7 +1,11 @@
 # Kicad_Spectrum_symbols
 Library containing symbols of Sinclair spectrum specific / Rare parts used in Speccies. 
 
-Footprints For edge connectors have been added
+Footprints For main 28 pin edge connectors have been added. Need to add:
++3 ext disk drive 
++2a/+3 printer
+128 Serial sockets
+
 
 Contains:
 *  Internal Connectors
