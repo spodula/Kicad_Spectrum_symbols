@@ -46,7 +46,7 @@ Symbols:
 Footprints:
 * - Spectrum  28-way Finger-style edge connector (Both internal and external)
 * - Spectrum  28-way pin-style edge connector (For right-angle mounting of socket on a PCB)
-* - Spectrum  28-way pin header connector. (For certain backplanes, eg, Steve Smith's)
+* - Spectrum  28-way pin header connector. (For certain backplanes, eg, Steve Smith's: http://projectspeccy.com/projects/ )
 * - +3 external disk edge connector
 * - +3 Internal disk edge connector
 * - +2A/+3 printer edge connector (Both ways)
