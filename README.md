@@ -1,7 +1,13 @@
 # Kicad_Spectrum_symbols
-Library containing symbols and footprints of Sinclair spectrum specific / Rare parts used in Speccies. 
+Library containing symbols of Sinclair spectrum specific / Rare parts used in Speccies. 
 
-Symbols: 
+Footprints For main 28 pin edge connectors have been added. Need to add:
++3 ext disk drive 
++2a/+3 printer
+128 Serial sockets
+
+
+Contains:
 *  Internal Connectors
 * - +2 internal cassette header
 * - +3 internal drive connector
@@ -42,13 +48,3 @@ Symbols:
 * - UM1233 (Video modulator)
 * - uPC765 (Floppy drive controller used in the +3)
 * - ZX8401 (48k Issue 6/128k/Grey +2 CPU->DRAM Glue logic)
-
-Footprints:
-* - Spectrum  28-way Finger-style edge connector (Both internal and external)
-* - Spectrum  28-way pin-style edge connector (For right-angle mounting of socket on a PCB)
-* - Spectrum  28-way pin header connector. (For certain backplanes, eg, Steve Smith's: http://projectspeccy.com/projects/ )
-* - +3 external disk edge connector
-* - +3 Internal disk edge connector
-* - +2A/+3 printer edge connector (Both ways)
-* - 128/+2/+3 RS-232 connector
-* - RGB-Peritel DIN8 connector
